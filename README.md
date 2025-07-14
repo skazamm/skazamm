@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=700&color=2ECC40&center=true&vCenter=true&width=500&lines=Prompting...;AI+Lover;System+Builder;Endless+Learner;Turning+Curiosity+Into+Reality!" alt="Looping Prompts"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=700&color=2ECC40&center=true&vCenter=true&width=500&lines=Prompting...;Let's connect!" alt="Looping Prompts"/>
 </p>
 
 ---
@@ -11,9 +11,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **3rd Year BSIT Student**  
-- 🤖 **Exploring AI:** Currently working on various projects with AI integration  
+- 🤖 **Currently Exploring AI:** Currently working on various projects with AI integration  
 - 🧠 **Curiosity-Driven:** Deep sense of wonder about Artificial Intelligence  
-- 🛠️ **System Builder:** I love solving real-world/personal problems by creating useful systems  
+- 🛠️ I love solving real-world/personal problems by creating useful systems  
 - 🌱 **Self-Improvement:** Always in pursuit of growth and being as useful as I can be
 
 ---
