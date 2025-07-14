@@ -38,7 +38,7 @@
 
 ### 📫 Let’s Connect!
 
-[![https://www.linkedin.com/in/john-paul-austria-608922305 ](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:your.email@gmail.com)
 
 ---
