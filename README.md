@@ -1,9 +1,9 @@
 <h1 align="center">
-  👋 Hello, World! I'm <span style="color:#F39C12">paul</span>
+  👋 Hello, World! I'm <b>Paul</b>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=700&color=2ECC40&center=true&vCenter=true&width=500&lines=Prompting...;AI+Lover" alt="Looping Prompts"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=700&color=2ECC40&center=true&vCenter=true&width=500&lines=Prompting...;AI+Lover;System+Builder;Endless+Learner;Turning+Curiosity+Into+Reality!" alt="Looping Prompts"/>
 </p>
 
 ---
