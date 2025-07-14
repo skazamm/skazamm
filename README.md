@@ -31,14 +31,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=austriagonzales592@gmail.com&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 ---
 
 ### 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![https://www.linkedin.com/in/john-paul-austria-608922305 ](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:your.email@gmail.com)
 
 ---
