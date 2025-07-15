@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=700&color=2986CC&center=true&vCenter=true&width=500&lines=Prompting...;Let's+connect!" alt="Looping Prompts"/>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=700&color=2ECC40&center=true&vCenter=true&width=500&lines=Prompting...;Let's+connect!" alt="Looping Prompts"/>
 
 ---
 
