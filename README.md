@@ -10,8 +10,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 **3rd Year BSIT Student**  
-- 🤖 **Currently Exploring AI:** Working on various projects with AI integration  
-- 🧠 **Curiosity-Driven:** Deep sense of wonder about Artificial Intelligence  
+- 🤖 **Currently Exploring AI:** I Working on various projects with AI integration  
+- 🧠 **Curiosity-Driven:** I deep sense of wonder about Artificial Intelligence  
 - 🛠️ **System Builder:** I love solving real-world and personal problems by creating useful systems  
 - 🌱 **Self-Improvement:** Always in pursuit of growth and being as useful as I can be
 
