@@ -15,6 +15,9 @@
 - 🛠️ **System Builder:** I love solving real-world and personal problems by creating useful systems  
 - 🌱 **Self-Improvement:** Always in pursuit of growth and being as useful as I can be
 
+--------------------------------------------------------------------------------
+- ** Currently Working on a lost and found system using node.js and react **
+
 ---
 
 ### 🚀 Tech & Tools
