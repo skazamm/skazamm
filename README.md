@@ -13,7 +13,7 @@
 - 🤖 **Currently Exploring AI:** Currently Working on various personal projects with AI integration  
 - 🧠 **Curiosity-Driven:** I have deep sense of wonder about Artificial Intelligence  
 - 🛠️ **System Builder:** I love solving real-world and personal problems by creating useful systems  
-- 🌱 **Self-Improvement:** --- Always in pursuit of growth and being as useful as I can be
+- 🌱 **Self-Improvement:** --- Always in pursuit of growth and being as useful human being as I can be
 
 --------------------------------------------------------------------------------
 **Currently Working on a lost and found system using node.js, react and posgre**
