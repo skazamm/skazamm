@@ -16,7 +16,7 @@
 - 🌱 **Self-Improvement:** --- Always in pursuit of growth and being as useful human being as I can be
 
 --------------------------------------------------------------------------------
-**Currently Planning on finding another personal Project**
+**Currently working on building Smart Public Transport Feedback & Monitoring System (SPTFMS)**
 
 ---
 
