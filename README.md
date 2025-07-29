@@ -16,7 +16,7 @@
 - 🌱 **Self-Improvement:** --- Always in pursuit of growth and being as useful human being as I can be
 
 --------------------------------------------------------------------------------
-**Currently Working on a lost and found system using node.js, react and posgre**
+**Currently Planning on finding another personal Project**
 
 ---
 
